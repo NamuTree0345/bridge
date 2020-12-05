@@ -1,0 +1,4 @@
+name: bridge
+version: ${project.version}
+main: me.namutree0345.bridge.Bridge
+api-version: 1.16
